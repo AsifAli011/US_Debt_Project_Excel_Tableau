@@ -25,7 +25,8 @@ Reflects internal borrowing within government agencies to finance specific progr
 
 Data Preparation:
 
-first prepare data according to the project objective
+First prepare data according to the project objective
+
 
 1) What was the yearly Debt Percentage increase for year compared to the previous year?
 
@@ -39,6 +40,8 @@ first prepare data according to the project objective
 *Result:*
   
   ![4](https://github.com/user-attachments/assets/c098a302-19a4-4abe-91a2-57dd4106af9e)
+
+
 
 
 2) which months historically have seen the hightest/lowest increases in total debt?
@@ -61,7 +64,9 @@ first prepare data according to the project objective
     * Drag the recorded date column to the column section and extract only year from recorded date column , then choose the area chart
     * fro forecosting , use the analystics section and forecast the average for next few years
 
-     *Final Result*
+
+
+      *Final Result*
     
   ![6](https://github.com/user-attachments/assets/4bc18db3-f352-4364-a61d-a48bfe0afe40)
 

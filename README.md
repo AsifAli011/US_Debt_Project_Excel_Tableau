@@ -76,6 +76,23 @@ Now create the Dashboard and drag the above sheets in dashboard
 
 
 
+## 1.4 Summary
+
+* The avergae public debt increase between 2016-2019, there are many factor such as
+    * Tax cut and job act 2017
+    * Increased governmental Spending on defense, health and social program
+    * Rising interest rate also increase the existing public debt
+
+* High debt increase occur in month of November, December & January because of;
+    *  Holiday in US
+    *  celebration days like Chrismas & Thanksgiving, so alot of people spent money gifting and parties
+
+* As the estimated average public debt in 2025, 2026 will be increase due to,
+    * Inflation in all our the world as a result of COVID-19
+    * The US spent a lot of money in weapon that use in war like Ukraine-Russia war, Israel-Palastine war
+ 
+
+
 
 
   

@@ -66,7 +66,11 @@ first prepare data according to the project objective
   ![6](https://github.com/user-attachments/assets/4bc18db3-f352-4364-a61d-a48bfe0afe40)
 
 
+
+
 Now create the Dashboard and drag the above sheets in dashboard
+
+
 
 ### Final Dashboard
 

@@ -1,4 +1,4 @@
-# US_Debt_Project_Excel_Tableau
+# US_Debt_Tableau_Project
 
 ## 1.1 Project Overview:
 
